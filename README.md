@@ -2,9 +2,6 @@
 
 It can sometimes be useful to view a TensorFlow graph file with TensorBoard. The script in this repository will import a graph file .meta format into TensorBoard.
 
-### Current Status
-This script has undergone limited testing - any issues or suggestions, please email me directly: mark.harvey@xilinx.com
-
 
 ## 1. Instructions
 
